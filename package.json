@@ -1,11 +1,17 @@
 {
   "name": "tdl-multiprocess",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "dependencies": {
     "node-ipc-promise": "0.1.1"
   },
   "peerDependencies": {
     "tdl": "^5.2.0"
   },
-  "main": "lib/Client"
+  "main": "lib/Client",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jollor/tdl-multiprocess.git"
+  },
+  "keywords": ["telegram", "tdl", "multiprocess"],
+  "author": "David Beneš"
 }
