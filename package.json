@@ -2,7 +2,7 @@
   "name": "tdl-multiprocess",
   "version": "0.0.2",
   "dependencies": {
-    "node-ipc-promise": "0.1.1"
+    "node-ipc-promise": "0.1.2"
   },
   "peerDependencies": {
     "tdl": "^5.2.0"
